@@ -7,6 +7,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+    	<br>
 	  Desktop:
 		<br>
 	  	<img width="1440" height="1080" alt="desktop-design" src="https://github.com/user-attachments/assets/5c5be026-d705-4d20-866a-5692117447c7" />
