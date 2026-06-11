@@ -74,24 +74,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 1. The Power of a "Card Wrapper" Container
 In your HTML, your .left-half and .right-half are sitting directly inside your .page-container (which takes up the whole screen).
 
@@ -131,7 +113,7 @@ The Improvement: Lean into modern Flexbox spacing. By using justify-content: spa
 ```
 
 4. Semantic HTML Adjustments
-You used a <h1> tag for the word "Summary". In standard web layout practices, an <h1> is reserved for the primary title of the entire webpage (usually just one per page for SEO and screen-reader accessibility).
+You used a h1 tag for the word "Summary". In standard web layout practices, an <h1> is reserved for the primary title of the entire webpage (usually just one per page for SEO and screen-reader accessibility).
 
 The Improvement: Since "Your Result" and "Summary" are equal visual sections within a component, changing them both to <h2> or <h3> tags makes your HTML outline structurally perfect.
 
