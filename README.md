@@ -7,6 +7,10 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+	  Desktop:
+	  	<img width="1440" height="1080" alt="desktop-design" src="https://github.com/user-attachments/assets/5c5be026-d705-4d20-866a-5692117447c7" />
+	  Mobile:
+		<img width="375" height="809" alt="mobile-design" src="https://github.com/user-attachments/assets/dc46714d-f4ae-46e1-8ab1-ab6ca8d58b03" />
   - [Links](#links)
 - [My process](#my-process)
   - [Built with] HTML and CSS
